@@ -11,6 +11,6 @@
         "prinsfrank/arithmetic-operations": "^0.1.0"
     },
     "provide": {
-        "prinsfrank/arithmetic-operations": "0.1"
+        "prinsfrank/arithmetic-operations-implementation": "self.version"
     }
 }
