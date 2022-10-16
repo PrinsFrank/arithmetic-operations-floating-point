@@ -1,0 +1,16 @@
+{
+    "name": "prinsfrank/arithmetic-operations-floating-point",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prinsfrank\\ArithmeticOperationsFloatingPoint\\": "src/"
+        }
+    },
+    "require": {
+        "prinsfrank/arithmetic-operations": "^0.1.0"
+    },
+    "provide": {
+        "prinsfrank/arithmetic-operations": "0.1"
+    }
+}
