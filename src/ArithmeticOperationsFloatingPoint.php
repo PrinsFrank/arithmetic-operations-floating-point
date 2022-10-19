@@ -34,6 +34,6 @@ class ArithmeticOperationsFloatingPoint implements ArithmeticOperations
 
     public function power(float $base, float $exponent): float
     {
-        return $base ^ $exponent;
+        return $base ** $exponent;
     }
 }
